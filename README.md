@@ -8,10 +8,9 @@
 
 <br>
 
-- 🔭 &nbsp; Exploring new technologies and developing cool things. Currently learning Swift and Computer Vision for a gaming utility app.
+- 🔭 &nbsp; Exploring new technologies and developing cool things. Currently learning Ruby on Rails! 
 - 🎓 &nbsp; HBSc Statistics Graduate from UofT.
 - 💼 &nbsp; Junior Developer at City of Toronto. 
-- 👾 &nbsp; Hobbies include Coding, Gaming, Content Creation, Investing and Cars.
 
 <br><br>
 
