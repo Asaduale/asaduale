@@ -45,9 +45,11 @@
 ![Anaconda](https://img.shields.io/badge/-Anaconda-333333?style=flat&logo=Anaconda&logoColor=42B029)&nbsp;
 
 <p align="center">
-  <i>Let's connect and chat!</i>\
+  <i>Let's connect and chat!</i>
+</p>
+
+<p align="center">
 <a href="mailto:asaddualeali@gmail.com"><img src="https://img.shields.io/badge/-asaddualeali@gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://linkedin.com/in/asadduale"><img src="https://img.shields.io/badge/-Asad%20Ali-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 </p>
-
 <img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/dcd7447c179f5a1131590b6ccba2223e879ab655/readme/bottom.svg" alt="bottom">
