@@ -1,6 +1,6 @@
 ### Hello it's a pleasure to meet you! 👋 
 
-My name is Asad.
+### My name is Asad.
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
@@ -39,7 +39,6 @@ My name is Asad.
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySQL&logoColor=4479A1)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=Postman&logoColor=FF6C37)&nbsp;
 ![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-333333?style=flat&logo=microsoft-office&logoColor=007ACC)&nbsp;
-![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=Jira)&nbsp;
 ![Confluence](https://img.shields.io/badge/-Confluence-333333?style=flat&logo=confluence&logoColor=007ACC)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=Eclipse-ide)&nbsp;
@@ -49,17 +48,10 @@ My name is Asad.
   <i>Let's connect and chat! Open to anything under the sun.</i>
 
   <p align="center">
-    <a href="https://twitter.com/jayehernandez_" alt="Twitter"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/twitter-fill.svg"></a>
-    <a href="https://www.linkedin.com/in/jayehernandez/" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
-    <a href="mailto:jaye@jayehernandez.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
-    <a href="https://jayehernandez.com" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a>
+    <a href="https://www.linkedin.com/in/asadduale/" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
+    <a href="mailto:asaddualeali@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
   </p>
 
-  <p align="center">
-    <a href="http://hits.dwyl.com/jayehernandez/jayehernandez">
-      <img align="center" src="http://hits.dwyl.com/jayehernandez/jayehernandez.svg">
-    </a>
-  </p>
 </p>
 
 <img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/dcd7447c179f5a1131590b6ccba2223e879ab655/readme/bottom.svg" alt="bottom">
