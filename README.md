@@ -47,10 +47,8 @@
 <p align="center">
   <i>Let's connect and chat! Open to anything under the sun.</i>
 
-  <p align="center">
-    <a href="https://www.linkedin.com/in/asadduale/" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/readme/linkedin-fill.svg"></a>
-    <a href="mailto:asaddualeali@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/readme/mail-fill.svg"></a>
-  </p>
+<a href="mailto:asaddualeali@gmail.com"><img src="https://img.shields.io/badge/-asaddualeali@gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/asadduale"><img src="https://img.shields.io/badge/-Asad%Ali-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 
 </p>
 
