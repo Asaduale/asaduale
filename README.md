@@ -1,4 +1,6 @@
-### Hello it's a pleasure to meet you! 👋 My name is Asad.
+### Hello it's a pleasure to meet you! 👋 
+
+My name is Asad.
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
@@ -15,7 +17,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> **🛠 &nbsp;Tech Stack**
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> **Tech Stack**
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=FFA518)&nbsp;
@@ -30,11 +32,15 @@
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
 ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=Jira&logoColor=0052CC)&nbsp;\
 ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=Amazon-AWS)&nbsp;
+![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-333333?style=flat&logo=microsoft-azure&logoColor=007ACC)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=Docker)&nbsp;
 ![Heroku](https://img.shields.io/badge/-Heroku-333333?&logo=heroku&logoColor=79589f)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB&logoColor=47A248)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySQL&logoColor=4479A1)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=Postman&logoColor=FF6C37)&nbsp;\
+![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-333333?style=flat&logo=microsoft-office&logoColor=007ACC)&nbsp;\
+![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=Jira)&nbsp;\
+![Confluence](https://img.shields.io/badge/-Confluence-333333?style=flat&logo=confluence&logoColor=007ACC)&nbsp;\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=Eclipse-ide)&nbsp;
 ![Anaconda](https://img.shields.io/badge/-Anaconda-333333?style=flat&logo=Anaconda&logoColor=42B029)&nbsp;
