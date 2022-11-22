@@ -30,17 +30,17 @@ My name is Asad.
 ![Redux.js](https://img.shields.io/badge/-Redux.js-333333?&logo=Redux&logoColor=764abc)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?&logo=bootstrap)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
-![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=Jira&logoColor=0052CC)&nbsp;\
+![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=Jira&logoColor=0052CC)&nbsp;
 ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=Amazon-AWS)&nbsp;
 ![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-333333?style=flat&logo=microsoft-azure&logoColor=007ACC)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=Docker)&nbsp;
 ![Heroku](https://img.shields.io/badge/-Heroku-333333?&logo=heroku&logoColor=79589f)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB&logoColor=47A248)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySQL&logoColor=4479A1)&nbsp;
-![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=Postman&logoColor=FF6C37)&nbsp;\
-![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-333333?style=flat&logo=microsoft-office&logoColor=007ACC)&nbsp;\
-![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=Jira)&nbsp;\
-![Confluence](https://img.shields.io/badge/-Confluence-333333?style=flat&logo=confluence&logoColor=007ACC)&nbsp;\
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=Postman&logoColor=FF6C37)&nbsp;
+![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-333333?style=flat&logo=microsoft-office&logoColor=007ACC)&nbsp;
+![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=Jira)&nbsp;
+![Confluence](https://img.shields.io/badge/-Confluence-333333?style=flat&logo=confluence&logoColor=007ACC)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=Eclipse-ide)&nbsp;
 ![Anaconda](https://img.shields.io/badge/-Anaconda-333333?style=flat&logo=Anaconda&logoColor=42B029)&nbsp;
